@@ -265,7 +265,6 @@ def main():
         try:
             preferences = storyteller.get_user_preferences()
             print("\nGenerating your story...")
-            print("\nMenghasilkan cerita Anda...")
             story = storyteller.generate_story(preferences)
             
             if input("\nGenerate another story? (y/n): ").lower() != 'y':
@@ -273,12 +272,10 @@ def main():
                 
         except Exception as e:
             print(f"An error occurred: {str(e)}")
-            print(f"Terjadi kesalahan: {str(e)}")
             if input("\nTry again? (y/n): ").lower() != 'y':
                 break
     
-    print("\nThank you for using AI Story Generator!")
-    print("\nTerima kasih telah menggunakan AI Story Generator!")
+    print("\nThank you for using AI Story Generator!\nCredit:https://github.com/jakiepari/StoryTellingAI ")
 
 if __name__ == "__main__":
     main()
