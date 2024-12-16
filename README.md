@@ -48,3 +48,13 @@ And then after running you can tell stories you want or maybe if you no have ide
 
 # Contributing
 Feel free to contribute in this script!
+
+<h2 id="star_hist">Star History</h2>
+
+<a href="https://star-history.com/#jakiepari/StoryTellingAI&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jakiepari/StoryTellingAI&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jakiepari/StoryTellingAI&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jakiepari/StoryTellingAI&type=Date"/>
+ </picture>
+</a>
