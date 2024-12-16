@@ -1,5 +1,5 @@
 # Story Teller AI
-**This AI make for to make a story with complex and long story. also can save the story into word, and pdf files.**
+**This AI make for to make a story with complex and long story. also can save the story into word, and pdf files**
 
 # **Features**
 Unlimited Creativity: This AI can produce stories with intricate plots, deep characters, and authentic emotions, using the latest machine learning algorithms. 
